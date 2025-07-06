@@ -5,6 +5,8 @@ remote_theme: pages-themes/minimal@v0.2.0
 # [Conversion]
 markdown: kramdown
 
+apiVersion:v1
+
 # [Used rubygem plugins]
 plugins:
   - jekyll-remote-theme
